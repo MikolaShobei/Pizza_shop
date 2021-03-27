@@ -1,1 +1,1 @@
-from .profile_enums import *
+from .regex_enums import *
